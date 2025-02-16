@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Saiyan";
+  src: url("Saiyan-Sans.ttf");
+  font-weight: 900;
+}
+
+body {
+  font-family: "Saiyan";
+  color: yellow;
+  background-color: black;
+  background: url("https://wallpapers.com/images/hd/red-dragonball-z-wallpaper-pictures-9f7ax3hyilbv9ktw.jpg")
+    center top no-repeat;
+  display: block;
+  margin-left: 25px;
+}
+* {
+  margin: 0px;
+}
+.h1 {
+  font-size: 4rem;
+  text-align: center;
+  text-shadow: 4px 0 black, -4px 0 black, 0 4px black, 0 -4px black,
+  4px 4px black, -4px 4px black, 4px -4px black, -4px 4px black;
+}
+.p{
+    font-size: 25px;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+  2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+}
+.p1{
+  font-size: 25px;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+color:rgb(123, 184, 245);
+}
+.h2{
+  font-size: 25px;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+  2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+}
