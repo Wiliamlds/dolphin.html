@@ -38,3 +38,30 @@ color:rgb(123, 184, 245);
   text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
   2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
 }
+.h3{
+  color: rgb(28, 134, 233);
+  font-size: 50px;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+  2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+}
+.img1{
+  width: 450px;
+}
+.h4{
+  font-size: 25px;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+  2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+}
+.img2{
+  width: 450px;
+}
+.h5{
+  font-size: 25px;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+  2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+}
+.h6{
+  font-size: 25px;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+  2px 2px black, -2px 2px black, 2px -2px black, -2px 2px black;
+}
